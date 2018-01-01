@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Berkshire+Swash);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans|Berkshire+Swash);
 
 body {
   text-align: center;
@@ -25,11 +25,12 @@ canvas {
 }
 
 h1 {
-  color: #b81313;
+  color: #ff4500;
   font-size: 50px;
 }
 
 h2 {
-  color: #ff4500;
+  color: green;
+  font-family: 'Josefin Sans', cursive;
   font-size: 40px;
 }
