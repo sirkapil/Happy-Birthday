@@ -6,8 +6,6 @@ body {
   color: #ff4500;
   font-size: 40px;
   font-family: 'Berkshire Swash', cursive;
-  text-shadow: 0 .05em .1em #fff;
-  animation-name: hover;
 }
 
 canvas {
