@@ -1,8 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Berkshire+Swash);
+
 body {
-  background-color: black;
   text-align: center;
-  color: white;
   font-size: 40px;
+  font-size: 200%;
+  padding: 2em;
+  background: linear-gradient(#c9e1e0, #fff) no-repeat;
+  margin-bottom: .5em;
+  color: #b81313;
+  font-family: 'Berkshire Swash', cursive;
+  font-weight: bold;
+  text-shadow: 0 .05em .1em #fff;
+  animation-name: hover;
+  animation-iteration-count: infinite;
+  animation-duration: 3.5s;
 }
 
 canvas {
