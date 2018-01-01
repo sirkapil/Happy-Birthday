@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Berkshire+Swash)
+
+body {
+  background-color: yellow;
+  text-align: center;
+  color: #ff4500;
+  font-size: 50px;
+  font-family: 'Berkshire Swash', cursive;
+  text-shadow: 0 .05em .1em #fff;
+  animation-name: hover;
+  font-weight: bold;
+}
+
+canvas {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+}
