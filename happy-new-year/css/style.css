@@ -1,11 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Berkshire+Swash)
-
 body {
   background-color: black;
   text-align: center;
-  color: #ff4500;
+  color: white;
   font-size: 40px;
-  font-family: 'Berkshire Swash', cursive;
 }
 
 canvas {
